@@ -1,6 +1,5 @@
-# Terrorism-Twitter-Dataset
-Twitter datasets collected for four terrorism events
+# Terrorism-Mass-Shooting-Twitter-Dataset
 
-Under construction
+** Under construction
 
-Twitter data ethics under review
+** Twitter data ethics under review

@@ -1,5 +1,5 @@
 # Terrorism-Mass-Shooting-Twitter-Dataset
 
-** Under construction
+** Current Twitter Data Policy states that only the Tweet ID can be distributed
 
-** Twitter data ethics under review
+For more information please refer to https://developer.twitter.com/en/developer-terms/agreement-and-policy
